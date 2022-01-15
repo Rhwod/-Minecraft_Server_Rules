@@ -1,1 +1,2 @@
-# -Minecraft_Server_Rules
+# Minecraft Server Rules
+Just Rules
